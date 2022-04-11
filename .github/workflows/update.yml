@@ -13,19 +13,20 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_BY_ME: "False"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "zh"
-          COMMIT_BY_ME: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "True"
+          SHOW_OS: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_SHORT_INFO: "True"
+          SHOW_TIMEZONE: "True"
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
