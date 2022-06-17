@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-5-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-71%20Thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 551 今年的贡献 2022
  > 
-> 📦 217.4 kB 占用了 GitHub 内存 
+> 📦 216.5 kB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
@@ -48,8 +48,8 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    17 mins             █████████████████████████   100.0% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Other                    17 mins             ████████████████████████░   99.38% 
+dosini                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
 
 🔥 编辑器: 
 Vim                      17 mins             █████████████████████████   100.0%
@@ -76,5 +76,5 @@ Makefile                 2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Arondight/Arondight/master/charts/bar_graph.png) 
 
 
- Last Updated on 2022-06-16 20:04:47 UTC
+ Last Updated on 2022-06-17 20:04:42 UTC
 <!--END_SECTION:waka-->
