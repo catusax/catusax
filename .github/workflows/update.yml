@@ -29,6 +29,6 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_TIMEZONE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
