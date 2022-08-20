@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-29-blue)
 
@@ -82,5 +82,5 @@ Python                   3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Arondight/Arondight/master/charts/bar_graph.png) 
 
 
- Last Updated on 2022-08-19 20:06:40 UTC
+ Last Updated on 2022-08-20 20:08:51 UTC
 <!--END_SECTION:waka-->
