@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -9,7 +9,7 @@
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 277.9 kB GitHub 存储空间 
+> 📦  使用了 277.5 kB GitHub 存储空间 
  > 
 > 🏆 27 年贡献了 2023 次
  > 
@@ -78,5 +78,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2023-04-04 20:38:03 UTC
+ Last Updated on 2023-04-05 20:32:50 UTC
 <!--END_SECTION:waka-->
