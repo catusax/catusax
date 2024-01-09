@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -46,8 +46,7 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   9 mins              ████████████████████████░   94.83 % 
-RPMSpec                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python                   9 mins              █████████████████████████   100.00 % 
 
 🔥 编辑器: 
 Vim                      9 mins              █████████████████████████   100.00 % 
@@ -73,5 +72,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2024-01-08 20:15:03 UTC
+ Last Updated on 2024-01-09 20:15:18 UTC
 <!--END_SECTION:waka-->
