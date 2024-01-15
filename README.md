@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -46,8 +46,9 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Ezhil                    13 mins             ████████████████░░░░░░░░░   62.98 % 
-Python                   8 mins              █████████░░░░░░░░░░░░░░░░   37.02 % 
+Ezhil                    13 mins             ████████████████░░░░░░░░░   62.82 % 
+Python                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+conf                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 
 🔥 编辑器: 
 Vim                      21 mins             █████████████████████████   100.00 % 
@@ -73,5 +74,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2024-01-14 20:14:34 UTC
+ Last Updated on 2024-01-15 20:15:17 UTC
 <!--END_SECTION:waka-->
