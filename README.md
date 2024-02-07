@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -76,5 +76,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2024-02-06 20:14:23 UTC
+ Last Updated on 2024-02-07 20:13:07 UTC
 <!--END_SECTION:waka-->
