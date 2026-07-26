@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C933%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C937%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
@@ -46,19 +46,19 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     14 hrs 29 mins      ████████████░░░░░░░░░░░░░   47.58 % 
-Markdown                 7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-JSON                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-TOML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Rust                     15 hrs 52 mins      ████████████░░░░░░░░░░░░░   46.75 % 
+Markdown                 7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+TOML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JSON                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 编辑器: 
-VS Code                  18 hrs 48 mins      ███████████████░░░░░░░░░░   61.75 % 
-Claude Code              11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.08 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  22 hrs 8 mins       ████████████████░░░░░░░░░   65.15 % 
+Claude Code              11 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   34.69 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 操作系统: 
-Linux                    30 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Go** 
@@ -78,5 +78,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/catusax/catusax/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-07-25 20:49:28 UTC
+ Last Updated on 2026-07-26 20:54:42 UTC
 <!--END_SECTION:waka-->
