@@ -1,6 +1,10 @@
 # 关于我
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C155%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-776.37%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
@@ -44,45 +48,45 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     16 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.52 % 
-Markdown                 7 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-TOML                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Bash                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-JSON                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Rust                     18 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.95 % 
+Markdown                 6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+TOML                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Bash                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+YAML                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 编辑器: 
-VS Code                  22 hrs 19 mins      ███████████████░░░░░░░░░░   58.82 % 
-Claude Code              15 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   41.04 % 
+VS Code                  20 hrs 7 mins       ██████████████░░░░░░░░░░░   55.64 % 
+Claude Code              15 hrs 59 mins      ███████████░░░░░░░░░░░░░░   44.21 % 
 Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 操作系统: 
-Linux                    37 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 37 mins (70.17%)
+⏱ AI Coding Time: 25 hrs 36 mins (70.8%)
 
-✍️ 8,468 lines written by AI, 35,712 lines written by hand (19.17% AI-written)
+✍️ 8,307 lines written by AI, 36,655 lines written by hand (18.48% AI-written)
 
-🔤 211,482,643 Input Tokens, 585,540 Output Tokens
+🔤 240,899,958 Input Tokens, 609,995 Output Tokens
 
-💵 $1041.01 Estimated AI Cost This Week
+💵 $1130.73 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 551 AI Prompts
+🧠 50 AI Sessions, 462 AI Prompts
 
-Opus                     8,411 lines         ███████████████████████░░   91.56 % 
-Sonnet                   741 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-GPT                      34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Opus                     8,245 lines         ███████████████████████░░   91.41 % 
+Sonnet                   741 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+GPT                      34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.17% of written lines came from AI
-📄 Detailed Prompter — average 917 characters per prompt
+🧑‍💻 Mostly Hands-On — 18.48% of written lines came from AI
+📄 Detailed Prompter — average 1,179 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 84.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.36% of changed lines were hand-edited
 ```
 
 **我最常使用 Go** 
@@ -102,5 +106,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/catusax/catusax/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-07-28 21:09:27 UTC
+ Last Updated on 2026-07-29 20:54:25 UTC
 <!--END_SECTION:waka-->
