@@ -48,42 +48,42 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     21 hrs 49 mins      █████████████████░░░░░░░░   67.70 % 
-Markdown                 3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Bash                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-TOML                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Rust                     20 hrs 21 mins      ███████████████████░░░░░░   75.99 % 
+Markdown                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 编辑器: 
-VS Code                  19 hrs 34 mins      ███████████████░░░░░░░░░░   60.72 % 
-Claude Code              12 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   39.28 % 
+VS Code                  21 hrs 11 mins      ████████████████████░░░░░   79.08 % 
+Claude Code              5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 
 💻 操作系统: 
-Linux                    32 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 8 mins (56.29%)
+⏱ AI Coding Time: 7 hrs 21 mins (27.49%)
 
-✍️ 4,853 lines written by AI, 49,098 lines written by hand (9.0% AI-written)
+✍️ 894 lines written by AI, 78,406 lines written by hand (1.13% AI-written)
 
-🔤 249,831,657 Input Tokens, 373,687 Output Tokens
+🔤 122,450,572 Input Tokens, 115,154 Output Tokens
 
-💵 $1044.23 Estimated AI Cost This Week
+💵 $403.76 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 221 AI Prompts
+🧠 10 AI Sessions, 60 AI Prompts
 
-Opus                     4,286 lines         █████████████████████░░░░   85.07 % 
-Sonnet                   752 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Sonnet                   752 lines           ████████████████████░░░░░   80.86 % 
+Opus                     178 lines           █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.0% of written lines came from AI
-📄 Detailed Prompter — average 1,299 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 94.36% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.13% of written lines came from AI
+📚 Verbose Prompter — average 1,599 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 99.41% of changed lines were hand-edited
 ```
 
 **我最常使用 Go** 
@@ -103,5 +103,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/catusax/catusax/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-02 20:53:03 UTC
+ Last Updated on 2026-08-04 21:14:18 UTC
 <!--END_SECTION:waka-->
