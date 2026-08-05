@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C172%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C181%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2016%20mins-blue?style=flat)
 
@@ -48,42 +48,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     20 hrs 21 mins      ███████████████████░░░░░░   75.99 % 
-Markdown                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Rust                     20 hrs 30 mins      ███████████████████░░░░░░   75.25 % 
+Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Other                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TOML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 编辑器: 
-VS Code                  21 hrs 11 mins      ████████████████████░░░░░   79.08 % 
-Claude Code              5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+VS Code                  23 hrs 55 mins      ██████████████████████░░░   87.76 % 
+Claude Code              3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 💻 操作系统: 
-Linux                    26 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 21 mins (27.49%)
+⏱ AI Coding Time: 4 hrs 51 mins (17.81%)
 
-✍️ 894 lines written by AI, 78,406 lines written by hand (1.13% AI-written)
+✍️ 781 lines written by AI, 91,114 lines written by hand (0.85% AI-written)
 
-🔤 122,450,572 Input Tokens, 115,154 Output Tokens
+🔤 81,273,229 Input Tokens, 97,750 Output Tokens
 
-💵 $403.76 Estimated AI Cost This Week
+💵 $260.01 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 60 AI Prompts
+🧠 7 AI Sessions, 30 AI Prompts
 
-Sonnet                   752 lines           ████████████████████░░░░░   80.86 % 
-Opus                     178 lines           █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Sonnet                   752 lines           ███████████████████████░░   92.04 % 
+Opus                     65 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.13% of written lines came from AI
-📚 Verbose Prompter — average 1,599 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 99.41% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.85% of written lines came from AI
+📄 Detailed Prompter — average 528 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 99.56% of changed lines were hand-edited
 ```
 
 **我最常使用 Go** 
@@ -103,5 +104,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/catusax/catusax/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-04 21:14:18 UTC
+ Last Updated on 2026-08-05 21:06:35 UTC
 <!--END_SECTION:waka-->
