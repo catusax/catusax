@@ -1,9 +1,9 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C230%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C237%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -48,47 +48,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     25 hrs 14 mins      █████████████░░░░░░░░░░░░   53.74 % 
-Markdown                 10 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Kotlin                   3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Other                    2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-TOML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Rust                     24 hrs 56 mins      █████████████░░░░░░░░░░░░   53.62 % 
+Markdown                 9 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Kotlin                   4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Other                    2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+TOML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 编辑器: 
-OMP                      18 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   39.14 % 
-VS Code                  15 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Claude Code              8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Codex Vscode             4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+OMP                      20 hrs 28 mins      ███████████░░░░░░░░░░░░░░   44.01 % 
+VS Code                  17 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.69 % 
+Codex Vscode             7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Claude Code              1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 操作系统: 
-Linux                    45 hrs 55 mins      ████████████████████████░   97.77 % 
+Linux                    45 hrs 29 mins      ████████████████████████░   97.77 % 
 Windows                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 27 mins (90.38%)
+⏱ AI Coding Time: 42 hrs 4 mins (90.42%)
 
-✍️ 35,910 lines written by AI, 34,455 lines written by hand (51.03% AI-written)
+✍️ 33,361 lines written by AI, 37,637 lines written by hand (46.99% AI-written)
 
-🔤 635,100,049 Input Tokens, 2,825,602 Output Tokens
+🔤 580,322,555 Input Tokens, 2,640,263 Output Tokens
 
-💵 $3544.95 Estimated AI Cost This Week
+💵 $3301.36 Estimated AI Cost This Week
 
-🧠 4337 AI Sessions, 382 AI Prompts
+🧠 4744 AI Sessions, 325 AI Prompts
 
-OMP                      23,864 lines        ████████████████░░░░░░░░░   64.83 % 
-Opus                     9,934 lines         ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-GPT                      2,204 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Sonnet                   808 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      27,894 lines        █████████████████████░░░░   82.45 % 
+GPT                      4,886 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Opus                     893 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Sonnet                   158 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.03% of written lines came from AI
-📚 Verbose Prompter — average 1,523 characters per prompt
+⚖️ Balanced with AI — 46.99% of written lines came from AI
+📄 Detailed Prompter — average 846 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 58.76% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 65.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Go** 
@@ -108,5 +108,5 @@ Cairo                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/catusax/catusax/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-13 20:42:50 UTC
+ Last Updated on 2026-08-14 20:32:47 UTC
 <!--END_SECTION:waka-->
