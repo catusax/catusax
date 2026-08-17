@@ -48,47 +48,44 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     24 hrs              ██████████████░░░░░░░░░░░   55.54 % 
-Markdown                 9 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Kotlin                   2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Other                    2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-TOML                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Rust                     18 hrs 30 mins      █████████████░░░░░░░░░░░░   50.69 % 
+Markdown                 7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Other                    3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Kotlin                   1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+TOML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 编辑器: 
-OMP                      18 hrs 52 mins      ███████████░░░░░░░░░░░░░░   43.70 % 
-VS Code                  15 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.31 % 
-Codex Vscode             7 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Claude Code              48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+OMP                      13 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   36.60 % 
+VS Code                  12 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Codex Vscode             11 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
 
 💻 操作系统: 
-Linux                    42 hrs 10 mins      ████████████████████████░   97.60 % 
-Windows                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Linux                    36 hrs 15 mins      █████████████████████████   99.29 % 
+Windows                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 50 mins (89.88%)
+⏱ AI Coding Time: 31 hrs 58 mins (87.58%)
 
-✍️ 30,539 lines written by AI, 37,636 lines written by hand (44.8% AI-written)
+✍️ 18,427 lines written by AI, 31,081 lines written by hand (37.22% AI-written)
 
-🔤 532,131,342 Input Tokens, 5,085,035 Output Tokens
+🔤 257,215,127 Input Tokens, 4,565,386 Output Tokens
 
-💵 $3154.94 Estimated AI Cost This Week
+💵 $1689.43 Estimated AI Cost This Week
 
-🧠 4316 AI Sessions, 403 AI Prompts
+🧠 1903 AI Sessions, 323 AI Prompts
 
-OMP                      25,020 lines        ████████████████████░░░░░   80.94 % 
-GPT                      4,972 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Opus                     760 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Sonnet                   158 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+OMP                      11,383 lines        ███████████████░░░░░░░░░░   59.38 % 
+GPT                      7,786 lines         ██████████░░░░░░░░░░░░░░░   40.62 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.8% of written lines came from AI
-📄 Detailed Prompter — average 705 characters per prompt
+⚖️ Balanced with AI — 37.22% of written lines came from AI
+📄 Detailed Prompter — average 619 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 67.01% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.3% of changed lines were hand-edited
 ```
 
 **我最常使用 Go** 
@@ -108,5 +105,5 @@ Cairo                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/catusax/catusax/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-16 20:20:38 UTC
+ Last Updated on 2026-08-17 20:27:33 UTC
 <!--END_SECTION:waka-->
