@@ -1,9 +1,9 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C250%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C256%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-316%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-322%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -48,43 +48,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     16 hrs 58 mins      ████████████░░░░░░░░░░░░░   49.34 % 
-Markdown                 7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Other                    3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Kotlin                   2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-TOML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Rust                     19 hrs 47 mins      █████████████░░░░░░░░░░░░   53.55 % 
+Markdown                 6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Other                    3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Kotlin                   2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 编辑器: 
-Codex Vscode             14 hrs 42 mins      ███████████░░░░░░░░░░░░░░   42.76 % 
-VS Code                  10 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.22 % 
-OMP                      9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Codex Vscode             16 hrs 40 mins      ███████████░░░░░░░░░░░░░░   45.13 % 
+VS Code                  10 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+OMP                      9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
 
 💻 操作系统: 
-Linux                    34 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 28 mins (88.56%)
+⏱ AI Coding Time: 33 hrs 20 mins (90.22%)
 
-✍️ 17,591 lines written by AI, 31,940 lines written by hand (35.52% AI-written)
+✍️ 19,323 lines written by AI, 34,651 lines written by hand (35.8% AI-written)
 
-🔤 194,220,215 Input Tokens, 4,771,135 Output Tokens
+🔤 200,527,186 Input Tokens, 5,072,865 Output Tokens
 
-💵 $1404.50 Estimated AI Cost This Week
+💵 $1489.33 Estimated AI Cost This Week
 
-🧠 1450 AI Sessions, 336 AI Prompts
+🧠 1425 AI Sessions, 382 AI Prompts
 
-GPT                      9,955 lines         █████████████░░░░░░░░░░░░   53.13 % 
-OMP                      8,781 lines         ████████████░░░░░░░░░░░░░   46.87 % 
+GPT                      12,383 lines        ███████████████░░░░░░░░░░   58.55 % 
+OMP                      8,768 lines         ██████████░░░░░░░░░░░░░░░   41.45 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.52% of written lines came from AI
-📄 Detailed Prompter — average 674 characters per prompt
+⚖️ Balanced with AI — 35.8% of written lines came from AI
+📄 Detailed Prompter — average 787 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 73.15% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 70.06% of changed lines were hand-edited
 ```
 
 **我最常使用 Go** 
@@ -104,5 +104,5 @@ Cairo                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/catusax/catusax/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-18 20:24:30 UTC
+ Last Updated on 2026-08-19 20:26:39 UTC
 <!--END_SECTION:waka-->
